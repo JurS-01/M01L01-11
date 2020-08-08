@@ -56,7 +56,7 @@
     }  
 }
 
-@media (mind-width:1200px){
+@media (min-width:1200px){
     .gridContainer1{
     grid-template-areas: 
     "a b c"
